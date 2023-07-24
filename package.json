@@ -1,0 +1,17 @@
+{
+  "name": "nagagold-auto-testing",
+  "version": "1.0.0",
+  "description": "Auto Testing Of Nagagold Use Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.17.2"
+  },
+  "dependencies": {
+    "typescript": "^5.1.6"
+  }
+}
